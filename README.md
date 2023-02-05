@@ -1,3 +1,5 @@
-# buildspace 
+# TravelAI
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+This repo is opensource for everyone who wants to develop on it. We are searching people to create this new utility app.
+
+I've created a discord server for developers who wants to participate in the server.
